@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.button-click,
+.button-clickye {
+font-size: 28px;
+font-family: Arial, Helvetica, 'Times New Roman', Times, serif, sans-serif;
+}
+
+.button-click {
+  background-color: black;
+   color: white
+}
+
+.button-clickye {
+  background-color: yellow;
+
+}
+
+
